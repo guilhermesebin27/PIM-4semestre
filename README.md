@@ -50,7 +50,7 @@ O objetivo do aplicativo é permitir que usuários abram chamados técnicos, aco
 | Sprint | Período        | Funcionalidades / Histórias                                                                                         | Entregável Principal                              |
 |--------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | 1      | 19/08 a 26/08  | - [Sprint 1 Documento](https://github.com/guilhermesebin27/PIM-4semestre/blob/main/Documentos/Diagramas/Casos%20de%20uso.md)                          | Diagrama de casos de uso
-| 2      | 26/08 a 02/09  | - Abertura de chamados<br>- Visualização de chamados e status<br>- Interface de envio de dados                      | Sistema de chamados funcionando                    |
+| 2      | 26/08 a 02/09  | - [Sprint 2 Documento](https://github.com/guilhermesebin27/PIM-4semestre/blob/main/Documentos/Diagramas/Classes.md)                   | Diagrama de classe
 | 3      | 02/09 a 09/09  | - Dashboard do atendente<br>- Alteração de status pelo atendente<br>- Notificações                                  | Integração entre usuário e atendente via chamados |
 | 4      | 09/09 a 16/09  | - Anexar imagem ao chamado<br>- Avaliação do atendimento<br>- Relatórios de chamados finalizados                   | Funcionalidades complementares e finalização      |
 
